@@ -1,11 +1,15 @@
 ---
 layout: default
-title: About
+title: About Me
 permalink: /about/
 ---
 
-### Minimalist
-Minimalist is a simple and light weighted [jekyll](http://jekyllrb.com/) theme. It focuses on a minimalistic design but still providing all functionality for a personal blog. For more information, e.g. how to use it, check out the [repository's](https://github.com/Trybnetic/minimalist) [Readme](https://github.com/Trybnetic/minimalist/blob/master/README.md).
+Hi, my name is Akshay Deshmukh. I am a Product Manager with a Bachelors in Information Technology. I believe in putting my heart and soul in all my endeavours. I'm still in pursuit of that one thing that I can be deeply passionate and until then I try to nurture a deep passion for the jobs I undertake. 
 
-### Jekyll
-[Jekyll](http://jekyllrb.com/) is a simple, ruby-based, static site generator. Jekyll generates beautifully static sites from simple text documents such as markdown. Check also the [jekyll documentation](http://jekyllrb.com/docs/home/) for what you can do with it.
+Currently, I'm working as a Senior Product Manager at <a href="https://zinrelo.com">Zinrelo</a> where I help build a loyalty platform aimed at improving the retention rate for e-commerce retailers.
+
+I read and write at whim but when I do I thoroughly enjoy it. If you feel I can be of help to you in any way , please feel free to reach out to me on <a href="http://in.linkedin.com/in/akshaydeshmukh16/">Linkedin</a>
+
+
+
+

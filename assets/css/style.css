@@ -1,9 +1,10 @@
 body	{
 	margin-top: 0px;
 	padding:0;
-	font-family: 'Cutive Mono', serif;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", "Ubuntu", sans-serif;
 	font-size:100%;
 	line-height:150%;
+	font-weight:300;
 }
 
 a:link, a:visited	{
@@ -86,6 +87,7 @@ a:hover	{
 
 #post-short h3, #post h2	{
 	margin-bottom: 0px;
+	font-weight:400;
 }
 
 #post-short i	{
@@ -101,8 +103,10 @@ a:hover	{
 #categories a, #categories a:link, #categories a:visited {
 	background-color: grey;
 	text-decoration: none;
-	padding: 0.1em 0.5em 0.1em 0.5em;
+	padding: 0.4em 0.5em;
 	border-radius: 25px;
+	color:white;
+	font-size:14px;
 }
 
 #categories a:hover {
@@ -138,6 +142,18 @@ a:hover	{
 		font-size: 2em;
 	}
 
+}
+
+.quote_container {
+padding:10px;background-color:#333;border-radius:5px;font-family:monospace;font-size:15px;color:white;margin-top:10px;
+}
+
+.quote{
+color:#ff7a59;padding:3px;border-radius:3px;
+}
+
+.author{
+color:#5469d4;border-radius:3px;
 }
 
 @media screen and (max-width: 400px) {
