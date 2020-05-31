@@ -7,7 +7,7 @@ comments: true
 ---
 Yes, you read it right! Don’t let the feature requests you receive from your customers drive your product roadmap. Instead, let the real problems they are facing do.
 
-Nearly 4 years ago, when I had just transitioned from engineering to product management here is how I used to respond to one of the most important questions that you get asked as asked as a product manager.
+Nearly 4 years ago, when I had just transitioned from engineering to product management here is how I used to respond to one of the most important questions that you get asked as a product manager.
 <!--more-->
 
 <div style="padding:20px;background-color:#333;border-radius:5px;font-family:monospace;font-size:15px;font-style:italic;color:white;">
