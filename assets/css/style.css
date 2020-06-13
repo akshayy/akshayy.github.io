@@ -19,7 +19,7 @@ a:hover	{
 
 
 #main {
-	width: 50%;
+	width: 55%;
 	margin: 0 auto;
 }
 
@@ -141,7 +141,7 @@ color : #6772e5 !important;
 
 	#logo, #nav, #content-left,	#footer {
 		display: block;
-		width: 100%;
+		
 	}
 
 	#logo img {
