@@ -46,6 +46,14 @@ a:hover	{
 	border-top:none;
 }
 
+#post .read-more-link{
+	display:none !important;
+}
+
+.read-more-link {
+color : #6772e5 !important;
+}
+
 #content {
 	text-align:center;
 	margin:auto;
@@ -156,15 +164,15 @@ a:hover	{
 }
 
 .quote_container {
-padding:10px;background-color:#333;border-radius:5px;font-family:monospace;font-size:15px;color:white;margin-top:10px;
+padding:10px;background-color:#f5f7f9;border-radius:5px;font-family:monospace;font-size:15px;color:white;margin-top:10px;border: solid 1px #eaecee;
 }
 
 .quote{
-color:#ff7a59;padding:3px;border-radius:3px;
+color:#333;padding:3px;border-radius:3px;
 }
 
 .author{
-color:#5469d4;border-radius:3px;
+color:#333333a8;border-radius:3px;
 }
 
 @media screen and (max-width: 400px) {

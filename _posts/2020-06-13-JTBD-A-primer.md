@@ -9,8 +9,9 @@ Have you heard of the ‘Jobs to be done’ Framework ?
 
 If you already have, let this article serve you as a refresher;if not, here's on to some enlightenment.
 
-<!--more-->
+<a class="read-more-link" href="https://akshayd.in/2020/06/12/JTBD-A-primer/">Read More</a>
 
+<!--more-->
 Jobs to be done framework or JTBD as it is widely known is primarily a framework for  understanding a customer’s motivation behind buying your product . All of us want our lives to be better. We all desire for a better standard of living, more time at hand and more peace of mind.  We try to accomplish these desires by entrusting the jobs to others which otherwise a primitive man would try to do himself. For e.g,  we no longer have to hunt for food or go searching for a cow to get milk . In a way, we’ve hired someone to get the job done and make our lives better.
 
 On similar lines, JTBD states that customers don’t buy your product or services. Instead, they hire products or services to overcome an obstacle and make their lives better. Customers hire your product for getting a job done. If the product does the job well, customers tend to hire the product again when they are confronted with a similar circumstance. 
@@ -34,9 +35,9 @@ So, how does one figure out the JTBD for a software product ? The answer - JTBD 
 <li>Tell me about the old solution. Can you remember how well that was working? Was it just your department using it?</li>
 </ul>
 
-A bit of chewing over  JTBD and you’ll realize that JTBD can come in handy during prioritization of features. The features that should go first are the ones that help users do something that they weren’t able to do before or had a hard time doing. Simply put , features that contribute to forward movement . However, IMHO, JTBD seems far more helpful in devising the product positioning and understanding who your real competitors are (<a target="_blank" href="https://www.fastcompany.com/40491939/netflix-ceo-reed-hastings-sleep-is-our-competition">Sleep is our #1 competition</a>). It could help you design an effective marketing strategy that resonates much better with your users. 
+A bit of chewing over  JTBD and you’ll realize that JTBD can come in handy during prioritization of features. The features that should go first are the ones that help users do something that they weren’t able to do before or had a hard time doing. Simply put , features that contribute to forward movement rank up higher. However, IMHO, JTBD seems far more helpful in devising the product positioning and understanding who your real competitors are (<a target="_blank" href="https://www.fastcompany.com/40491939/netflix-ceo-reed-hastings-sleep-is-our-competition">Sleep is our #1 competition</a>). It could help you design an effective marketing strategy that resonates much better with your users. 
 
-Cheers,<br>
+Until next time...<br>
 A.
 
 <div style="font-style:italic"> P.S - The JTBD framework is massive. With this article, we are simply scratching the surface. If this article has managed to pique your interest, here are some great resources to know more about JTBD -
