@@ -12,11 +12,14 @@
     {% endif %}
     {% if page.description %}	 
     <meta content="{{page.description}}" name="description"></meta>
+    <meta property="og:description" content="{{page.description}}">
     {% else %}
      <meta content="{{site.description}}" name="description"></meta>
+     <meta property="og:description" content="{{site.description}}">
     {% endif %}
     {% if page.image %}	 
-    <meta itemprop="image" content="{{ page.image }}" />
+    <meta itemprop="image" content="{{site.url}}{{site.baseurl}}{{ page.image }}" />
+    <meta property="og:image" content="{{site.url}}{{site.baseurl}}{{ page.image }}"/>
     {% endif %}
     <meta content="{{site.owner}}" name="author"></meta>
     <meta content="Copyright 2020 {{site.owner}}. All rights reserved." name="copyright"></meta>
