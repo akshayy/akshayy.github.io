@@ -2,6 +2,7 @@
 layout: post
 title:  "Keeping the product promise"
 date:   2020-06-28 01:03:29 +0200
+description : This is a description
 categories: Product-Management
 comments: true
 ---
