@@ -2,7 +2,8 @@
 layout: post
 title:  "Keeping the product promise"
 date:   2020-06-28 01:03:29 +0200
-description : "This is a description"
+description : "What is a product promise and owning the product promise as a PM"
+image : "/assets/images/keeping-product-promise.png"
 categories: Product-Management
 comments: true
 ---

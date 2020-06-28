@@ -2,8 +2,22 @@
     <title>{{site.title}}</title>
     <meta charset="utf-8">
     <link href="{{site.url}}{{site.baseurl}}/assets/css/style.css" type="text/css" rel="stylesheet"></link>
-    <link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet"> 
-    <meta content="{{site.description}}" name="description"></meta>
+    <link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
+    {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:type" content="article">
+    {% else %}
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:type" content="website">
+    {% endif %}
+    {% if page.description %}	 
+    <meta content="{{page.description}}" name="description"></meta>
+    {% else %}
+     <meta content="{{site.description}}" name="description"></meta>
+    {% endif %}
+    {% if page.image %}	 
+    <meta itemprop="image" content="{{ page.image }}" />
+    {% endif %}
     <meta content="{{site.owner}}" name="author"></meta>
     <meta content="Copyright 2020 {{site.owner}}. All rights reserved." name="copyright"></meta>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
