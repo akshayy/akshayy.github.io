@@ -7,12 +7,12 @@ image : "/assets/images/keeping-product-promise.png"
 categories: Product-Management
 comments: true
 ---
-<a href="/2020/06/28/keeping-the-product-promise/"><img src="/assets/images/keeping-product-promise.png" style="width: 100%;"></a>
+<a href="/2020/06/27/keeping-the-product-promise/"><img src="/assets/images/keeping-product-promise.png" style="width: 100%;"></a>
 In my <a class='link-in-post' href="https://akshayd.in/2020/06/12/JTBD-A-primer/">last post</a> about the JTBD framework, I wrote about how customers don't “buy” products. Instead they “hire” products or services to help them overcome an obstacle and better their lives. Products that deliver on this promise of upgrading the customers’ lives are loved whereas the ones failing to do so are dumped.
 
 Before we look at what a product promise is, let’s take a moment to mull over the concept of <span style="font-style:italic">Whole Product Offering</span>. The <a class='link-in-post' href="https://280group.com/">280 group</a> defines <span style="font-style:italic">Whole Product Offering</span> as - 
 
-<a class="read-more-link" href="/2020/06/28/keeping-the-product-promise/">Read More</a>
+<a class="read-more-link" href="/2020/06/27/keeping-the-product-promise/">Read More</a>
 
 <!--more-->
 <div style="font-style: italic;padding-left: 20px;border-left: solid 4px #008000b5;border-radius: 2px;margin-left: 15px;">
