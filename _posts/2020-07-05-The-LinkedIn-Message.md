@@ -3,7 +3,7 @@ layout: post
 title:  "The LinkedIn message..."
 date:   2020-07-05 01:03:29 +0200
 description : "The LinkedIn message that got me an audience with the co-founder of a company I was trying to get a job at."
-image : "/assets/images/the-linkedin-message.png"
+image : "/assets/images/linkedinpost.png"
 categories: random
 comments: true
 ---
