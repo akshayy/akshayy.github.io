@@ -3,11 +3,11 @@ layout: post
 title:  "The LinkedIn message..."
 date:   2020-07-05 01:03:29 +0200
 description : "The LinkedIn message that got me an audience with the co-founder of a company I was trying to get a job at."
-image : "/assets/images/linkedinpost.png"
+image : "/assets/images/linkedoptimized.png"
 categories: random
 comments: true
 ---
-<a href="/2020/07/04/The-LinkedIn-Message/"><img src="/assets/images/the-linkedin-message.png" style="width: 100%;"></a>
+<a href="/2020/07/04/The-LinkedIn-Message/"><img src="/assets/images/linkedoptimized.png" style="width: 100%;"></a>
 
 <span style="font-weight:bold">Disclaimer</span> : <span style="font-style:italic">I did not land the job. I had a fruitful discussion for 30+ minutes on a call and after a week, I was conveyed that they won't proceed further.</span>
 
