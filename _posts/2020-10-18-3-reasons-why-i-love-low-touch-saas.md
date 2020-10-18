@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3 Reasons Why I Love Low Touch SaaS"
-date:   2020-10-18 01:03:29 +0200
+date:   2020-10-18 22:00:00 +0200
 description : "3 reasons why I love low touch SaaS"
 image : "/assets/images/low-touch-saas.png"
 categories: Product-Management
