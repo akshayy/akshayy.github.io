@@ -2,12 +2,12 @@
 layout: post
 title:  "3 Reasons Why I Love Low Touch SaaS"
 date:   2020-10-18 22:00:00 +0200
-description : "3 reasons why I love low touch SaaS"
-image : "/assets/images/LowTouchtwitter.png"
+description : "I'm increasingly convinced that Low Touch SaaS model makes full use of the software technological brilliance that humankind has achieved to create superior product experiences.Here are 3 reasons why I love Low Touch SaaS."
+image : "/assets/images/lowtouchtwittercard.png"
 categories: Product-Management
 comments: true
 ---
-<a href="/2020/10/18/3-reasons-why-i-love-low-touch-saas/"><img src="/assets/images/LowTouchtwitter.png" style="width: 100%;"></a>
+<a href="/2020/10/18/3-reasons-why-i-love-low-touch-saas/"><img src="/assets/images/lowtouchtwittercard.png" style="width: 100%;"></a>
 
 I am a <a class='link-in-post' target="_blank" href="https://stripe.com">Stripe</a> fanboy. Back in 2014, I remember being mighty impressed at the ease with which  we were able to implement a seemingly complicated thing - the billing infrastructure at <a href="https://zinrelo.com" class="link-in-post" target="_blank"> Zinrelo </a> - using Stripe. Right from the discovery to on-boarding, the API docs to the error messages, everything with Stripe was a cakewalk. And not a single time did we have to interact with a human being at Stripe's end. After a couple of years, I had a similar experience with another product - <a target="_blank" href="https://intercom.com" class="link-in-post">Intercom</a>. Integrating Intercom and the whole product experience in general was exceedingly simple requiring no human interaction.
 

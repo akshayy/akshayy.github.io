@@ -6,9 +6,11 @@
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:type" content="article">
+    <meta property="twitter:title" content="{{ page.title }}">
     {% else %}
     <meta property="og:title" content="{{ site.title }}">
     <meta property="og:type" content="website">
+    <meta property="twitter:title" content="{{ site.title }}">
     {% endif %}
     {% if page.description %}	 
     <meta content="{{page.description}}" name="description"></meta>
@@ -20,6 +22,11 @@
     {% if page.image %}	 
     <meta itemprop="image" content="{{site.url}}{{site.baseurl}}{{ page.image }}" />
     <meta property="og:image" content="{{site.url}}{{site.baseurl}}{{ page.image }}"/>
+    {% endif %}
+    {% if page.twitterimage %}	 
+    <meta itemprop="image" content="{{site.url}}{{site.baseurl}}{{ page.image }}" />
+    <meta property="twitter:image" content="{{site.url}}{{site.baseurl}}{{ page.twitterimage }}"/>
+    <meta property="twitter:card" content="summary_large_image">
     {% endif %}
     <meta content="{{site.owner}}" name="author"></meta>
     <meta content="Copyright 2020 {{site.owner}}. All rights reserved." name="copyright"></meta>
