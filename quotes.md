@@ -2,6 +2,7 @@
 layout: default
 title: My Favourite Quotes
 description: A collection of some of my favourite quotes - the ones I try to live by.
+date: 2020-11-21 01:03:29 +0200
 permalink: /fav-quotes/
 ---
 

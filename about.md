@@ -2,6 +2,7 @@
 layout: default
 title: About Me
 description: Seems like I managed to pique your interest in wanting to know more about me. So here goes
+date: 2020-11-21 01:03:29 +0200
 permalink: /about/
 ---
 
