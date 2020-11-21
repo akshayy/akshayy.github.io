@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Don’t let feature requests from your customers drive your product roadmap!"
+description: "Don’t let feature requests from your customers drive your product roadmap. Instead let the real problems they are facing do"
 date:   2020-05-30 01:03:29 +0200
 categories: Product-Management
 comments: true

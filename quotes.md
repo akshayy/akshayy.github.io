@@ -1,6 +1,7 @@
 ---
 layout: default
 title: My Favourite Quotes
+description: A collection of some of my favourite quotes - the ones I try to live by.
 permalink: /fav-quotes/
 ---
 

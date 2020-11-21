@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Me
+description: Seems like I managed to pique your interest in wanting to know more about me. So here goes
 permalink: /about/
 ---
 

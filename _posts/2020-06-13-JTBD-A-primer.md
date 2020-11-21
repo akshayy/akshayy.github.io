@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "JTBD-A primer"
+description: Understand a customer's motivation behind buying your product using JTBD framework
 date:   2020-06-13 01:03:29 +0200
 categories: Product-Management
 comments: true
