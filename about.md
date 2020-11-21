@@ -20,7 +20,7 @@ I'm highly inspired by the community of <a href="https://www.indiehackers.com/" 
 
 I am constantly on the lookout for opportunities to learn and share my learnings. My recent pursuit of becoming a better product manager led me to build - <a href="https://zerotopm.info" class="link-in-post"> Zero To PM</a> - which is a curated library of product management related resources. Since it's launch, it has been used by thousands of product management enthusiasts to upskill themselves. I read sporadically and write at whim on this blog but I'm relatively less erratic with my jibber jabber on <a href="https://twitter.com/ak_kshay" class="link-in-post"> Twitter</a>. (Not sure where my alter ego gathers the audacity of desiring to write an ebook from, in spite of being so regularly irregular with writing)
 
-If I managed to hold you for this long, please pat my back by following me on <a href="https://twitter.com/ak_kshay" class="link-in-post"> Twitter</a> or letting me know by connecting on <a href="http://in.linkedin.com/in/akshaydeshmukh16/">Linkedin</a>.
+If I managed to hold you for this long, please pat my back by following me on <a href="https://twitter.com/ak_kshay" class="link-in-post"> Twitter</a> or letting me know by connecting on <a class="link-in-post" href="http://in.linkedin.com/in/akshaydeshmukh16/">Linkedin</a>.
 
 
 
