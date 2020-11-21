@@ -4,6 +4,7 @@ title:  "3 Reasons Why I Love Low Touch SaaS"
 date:   2020-10-18 22:00:00 +0200
 description : "I'm increasingly convinced that Low Touch SaaS model makes full use of the software technological brilliance that humankind has achieved to create superior product experiences.Here are 3 reasons why I love Low Touch SaaS."
 image : "/assets/images/lowtouchtwittercard.png"
+twitterimage : "/assets/images/lowtouchtwittercard.png"
 categories: Product-Management
 comments: true
 ---
