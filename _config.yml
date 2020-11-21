@@ -17,6 +17,7 @@ permalink: /:year/:month/:day/:title/
 
 gems:
   - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
