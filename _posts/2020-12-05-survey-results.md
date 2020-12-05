@@ -3,8 +3,8 @@ layout: post
 title:  "Survey results : Best ways to break into Product Management"
 date:   2020-12-04 22:00:00 +0200
 description : "I surveyed over 45+ product managers to figure out how product managers around got into product. This post is to present the survey results"
-image : "/assets/images/best-ways-to-get-into-product.svg"
-twitterimage : "/assets/images/best-ways-to-get-into-product.svg"
+image : "/assets/images/best-ways-to-get-into-product.png"
+twitterimage : "/assets/images/best-ways-to-get-into-product.png"
 categories: Product-Management
 comments: true
 ---
