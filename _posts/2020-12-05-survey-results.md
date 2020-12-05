@@ -11,7 +11,7 @@ comments: true
 
 Arguably, Product management is one of the most sought after jobs in tech today. After I built <a href="https://zerotopm.info" class="link-in-post" target="_blank">Zero To PM</a>, I made quite a few connections on LinkedIn and Twitter who were enthusiastic about the role and wanted to break into Product Management. Talking to them ascertained that the PM role is indeed a highly coveted one but a brutally difficult one to get into.
 
-<a class="read-more-link" href="/2020/12/05/survey-results/">Read More</a>
+<a class="read-more-link" href="/2020/12/04/survey-results/">Read More</a>
 <!--more-->
 While some of them have been failing to get past the resume screening when applying for a Product Manager role probably because of no prior PM experience, others have been speculating over whether a PM course is really going to help them get a PM job. Although most of the product managers I've interacted with got into Product Management through an internal transition in their companies, I really wanted to dig deeper and understand what the most common ways to break into product were. Hence, I surveyed over 45+ product managers to figure out the answers. This post is to present the survey results. 
 
