@@ -24,13 +24,12 @@ While some of them have been failing to get past the resume screening when apply
 
 <h3>The two best ways to get into Product Management</h3>
 <p>
-In my discussions with product enthusiasts desiring to break into Product Management, I've always maintained that the following two approaches are their best bets to get into Product Management
+In my discussions with product enthusiasts desiring to break into Product Management, I've always maintained that the following two approaches are their best bets to get into Product Management</p>
 
 1. Identify smaller projects in their current company they can contribute to in the capacity of a PM and then make an internal transition.
 2. Join a small startup in whatever role you are competent enough for. Then learn and build as much as you can about building and scaling a product before you can get the founders to formally make you a product manager.
 
 The survey results affirm these two approaches.
-</p>
 
 <img src="/assets/images/best-ways-to-get-into-product.svg" style="width: 100%;">
 
