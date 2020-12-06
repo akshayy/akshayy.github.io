@@ -29,6 +29,17 @@ permalink: /zero-to-pm-the-book/
 
 .clear:after {clear: both;display: table;content: "";}
 
+@media screen and (max-width: 690px) {
+  
+  #ebook-img-container {
+    float:none !important;
+  }
+  
+  #ebook-subscribe-section {
+    width:100% !important; 
+  }
+
+}
 </style>
 
 <h2 id="ebook-title">eBook: Zero To PM</h2>
