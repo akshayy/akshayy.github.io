@@ -37,6 +37,7 @@ permalink: /zero-to-pm-the-book/
   
   #ebook-subscribe-section {
     width:100% !important; 
+    margin-left:-10px;
   }
 
 }
