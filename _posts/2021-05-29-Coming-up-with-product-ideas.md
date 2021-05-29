@@ -8,12 +8,12 @@ twitterimage : "/assets/images/coming-up.png"
 categories: Product-Management
 comments: true
 ---
-<a href="/2021/05/29/Coming-up-with-product-ideas/"><img alt="Coming up with product ideas..." src="/assets/images/coming-up.png" style="width: 100%;border:solid 1px #ccc; border-radius:2px;"></a>
+<a href="/2021/05/28/Coming-up-with-product-ideas/"><img alt="Coming up with product ideas..." src="/assets/images/coming-up.png" style="width: 100%;border:solid 1px #ccc; border-radius:2px;"></a>
 As someone responsible for the overall success of the product, a PM has to always be on the hunt for new ideas that will beef the product offering and add value to customers' lives. 
 
 But where does one get ideas from ?
 
-<a class="read-more-link" href="/2021/05/29/Coming-up-with-product-ideas/">Read More</a>
+<a class="read-more-link" href="/2021/05/28/Coming-up-with-product-ideas/">Read More</a>
 <!--more-->
 <ul>
 	<li> 
