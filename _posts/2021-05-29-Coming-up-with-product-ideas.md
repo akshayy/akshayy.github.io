@@ -25,7 +25,7 @@ But where does one get ideas from ?
 	<li>
 		<b>Review sites, Forums, Marketplace discussions:</b> These are the places where you will get to know - 
     	<ul>
-    		<li>Your customers feel about your product.</li>
+    		<li>How your customers feel about your product.</li>
     		<li>What obstacles they are facing and what solutions are being recommended to them.</li>
     		<li>What jobs are customers trying to do using your products.</li>
     	</ul>
