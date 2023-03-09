@@ -12,12 +12,5 @@ description : "Thoughts and reflections on product management, productivity, goa
       <h3>{{post.title}}</h3>
     </a>
     <i>posted on {{ post.date | date: "%-d %b %Y" }}</i>
-    <p>
-      {% if post.excerpt %}
-        {{ post.excerpt }}
-      {% else %}
-        {{ post.content }}
-      {% endif %}
-    </p>
   </div>
 {% endfor %}
