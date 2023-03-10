@@ -12,6 +12,6 @@ description : "Thoughts and reflections on product management, productivity, goa
     <a class="link-in-post" href="{{site.url}}{{site.baseurl}}{{post.url}}">
       {{post.title}}
     </a>
-    <div>Posted on {{ post.date | date: "%b %-d, %Y" }} </div>
+    <div style="font-size:15px;color:darkgray">Posted on {{ post.date | date: "%b %-d, %Y" }} </div>
   </div>
 {% endfor %}
