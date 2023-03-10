@@ -8,9 +8,10 @@ description : "Thoughts and reflections on product management, productivity, goa
 ---
 {% for post in site.posts %}
   <div id="post-short">
-    <span style="padding-right:15px"> {{ post.date | date: "%b %-d, %Y" }} </span>
+     
     <a class="link-in-post" href="{{site.url}}{{site.baseurl}}{{post.url}}">
       {{post.title}}
     </a>
+    <div>Posted on {{ post.date | date: "%b %-d, %Y" }} </div>
   </div>
 {% endfor %}
