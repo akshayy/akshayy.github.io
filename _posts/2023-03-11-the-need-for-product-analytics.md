@@ -1,5 +1,12 @@
 ---
-published: false
+published: true
+layout: post
+date: '2023-03-11 22:00:00 +0200'
+description: Why do we need product analytics?
+image: null
+twitterimage: null
+categories: Product-Management
+comments: true
 ---
 ## The need for product analytics
 
