@@ -8,7 +8,6 @@ twitterimage: null
 categories: Product-Management
 comments: true
 ---
-## The need for product analytics
 
 **Note** : _I’m currently taking a Product Analytics course and this blog post is just me collating the notes that I took during the first module of this course so that I can refer to these later._
 
