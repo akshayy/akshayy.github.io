@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+date: '2023-03-13 22:00:00 +0200'
+description: My vision for life. Here is my personal vision statement
+categories: Personal
+comments: true
 ---
 As I reflect on my life, I want to be remembered as someone who lived a happy life, with purpose and dignity. Ralph Waldo Emerson's prose aptly summarizes my definition of such a life:
 
