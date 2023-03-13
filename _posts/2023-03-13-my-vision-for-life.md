@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2023-03-13 22:00:00 +0200'
 description: My vision for life. Here is my personal vision statement
