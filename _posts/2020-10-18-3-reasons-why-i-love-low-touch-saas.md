@@ -13,7 +13,6 @@ comments: true
 I am a <a class='link-in-post' target="_blank" href="https://stripe.com">Stripe</a> fanboy. Back in 2014, I remember being mighty impressed at the ease with which  we were able to implement a seemingly complicated thing - the billing infrastructure at <a href="https://zinrelo.com" class="link-in-post" target="_blank"> Zinrelo </a> - using Stripe. Right from the discovery to on-boarding, the API docs to the error messages, everything with Stripe was a cakewalk. And not a single time did we have to interact with a human being at Stripe's end. After a couple of years, I had a similar experience with another product - <a target="_blank" href="https://intercom.com" class="link-in-post">Intercom</a>. Integrating Intercom and the whole product experience in general was exceedingly simple requiring no human interaction.
 
 
-<a class="read-more-link" href="/2020/10/18/3-reasons-why-i-love-low-touch-saas/">Read More</a>
 
 <!--more-->
 Later, when I learnt about different SaaS models as a Product Manager, I realised that the model that both Stripe and Intercom followed was called a Low Touch SaaS model. 

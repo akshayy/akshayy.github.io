@@ -10,7 +10,6 @@ Have you heard of the ‘Jobs to be done’ Framework ?
 
 If you already have, let this article serve you as a refresher;if not, here's on to some enlightenment.
 
-<a class="read-more-link" href="https://akshayd.in/2020/06/12/JTBD-A-primer/">Read More</a>
 
 <!--more-->
 Jobs to be done framework or JTBD as it is widely known is primarily a framework for  understanding a customer’s motivation behind buying your product . All of us want our lives to be better. We all desire for a better standard of living, more time at hand and more peace of mind.  We try to accomplish these desires by entrusting the jobs to others which otherwise a primitive man would try to do himself. For e.g,  we no longer have to hunt for food or go searching for a cow to get milk . In a way, we’ve hired someone to get the job done and make our lives better.

@@ -13,7 +13,6 @@ comments: true
 
 A couple of weeks ago, I came across a <a class='link-in-post' target="_blank" href="https://www.linkedin.com/posts/warikoo_networking-network-jobsearch-activity-6675606991638933504-PSKC">LinkedIn post</a> by <a class='link-in-post' target="_blank" href="https://www.ankurwarikoo.com/">Ankur Warikoo</a> where he lessoned a person on what the right way to approach someone for a job was. I was immediately reminded of the only time when I had approached someone on LinkedIn asking for a job. Nearly 3 years ago, when I was looking for a PM opportunity, I decided to drop a LinkedIn message to the co-founder and Chief Product Office of the company I was wanting to get into and managed to get a 30+ minutes of telephonic conversation with him. 
 
-<a class="read-more-link" href="/2020/07/04/The-LinkedIn-Message/">Read More</a>
 
 <!--more-->
 Since then the message template has been used by a couple of my friends and it has worked for them too. Here is the templatized version of the message that I had sent -

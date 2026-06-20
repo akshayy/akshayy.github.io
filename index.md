@@ -7,11 +7,8 @@ title: Akshay's blog
 description : "Thoughts and reflections on product management, productivity, goals and happy life"
 ---
 {% for post in site.posts %}
-  <div id="post-short">
-     
-    <a class="link-in-post" href="{{site.url}}{{site.baseurl}}{{post.url}}">
-      {{post.title}}
-    </a>
-    <div style="font-size:15px;color:darkgray">Posted on {{ post.date | date: "%b %-d, %Y" }} </div>
+  <div class="post-short">
+    <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+    <a class="post-title" href="{{site.url}}{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
   </div>
 {% endfor %}

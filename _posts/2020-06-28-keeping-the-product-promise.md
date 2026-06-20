@@ -13,7 +13,6 @@ In my <a class='link-in-post' href="https://akshayd.in/2020/06/12/JTBD-A-primer/
 
 Before we look at what a product promise is, let’s take a moment to mull over the concept of <span style="font-style:italic">Whole Product Offering</span>. The <a class='link-in-post' href="https://280group.com/">280 group</a> defines <span style="font-style:italic">Whole Product Offering</span> as - 
 
-<a class="read-more-link" href="/2020/06/27/keeping-the-product-promise/">Read More</a>
 
 <!--more-->
 <div style="font-style: italic;padding-left: 20px;border-left: solid 4px #008000b5;border-radius: 2px;margin-left: 15px;">

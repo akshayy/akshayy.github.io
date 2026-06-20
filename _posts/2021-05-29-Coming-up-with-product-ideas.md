@@ -13,7 +13,6 @@ As someone responsible for the overall success of the product, a PM has to alway
 
 But where does one get ideas from ?
 
-<a class="read-more-link" href="/2021/05/28/Coming-up-with-product-ideas/">Read More</a>
 <!--more-->
 <ul>
 	<li> 

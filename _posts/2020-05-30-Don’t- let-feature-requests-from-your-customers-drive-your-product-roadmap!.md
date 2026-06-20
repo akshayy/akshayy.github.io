@@ -10,7 +10,6 @@ Yes, you read it right! Don’t let the feature requests you receive from your c
 
 Nearly 4 years ago, when I had just transitioned from engineering to product management here is how I used to respond to one of the most important questions that you get asked as a product manager.
 
-<a class="read-more-link" href="https://akshayd.in/2020/05/29/Don-t-let-feature-requests-from-your-customers-drive-your-product-roadmap!/">Read More</a>
 
 <!--more-->
 
@@ -41,5 +40,4 @@ Customers will often ask you the world. More often than not, the feature request
 
 After all , effective product management is not just about solving problems but about choosing  the right set of problems to solve.
 
-[Read-More]: http://localhost:4000/2020/05/30/Don-t-let-feature-requests-from-your-customers-drive-your-product-roadmap!/
 
