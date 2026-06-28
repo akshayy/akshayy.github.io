@@ -18,7 +18,7 @@ I took a short pit stop around Karla. The pain in my scapula had aggravated. For
 
 It is after Khandala, towards Khopoli, that the breathtaking views begin. Just before the Khandala Ghat starts, there is a spot where the road overlooks a deep gorge. The view was surreal. Clouds touching the mountain tops. A lush green valley below. The kind of view that makes you stop mid-thought.
 
-<img src ="/assets/images/missing-link-ride/deep-gorge-few-kilometers-from-khandala-talao.jpeg" style="width: 100%;border:solid 1px #ccc; border-radius:2px;" title="Deep gorge just a few kms ahead of Khandala Talao on Khandala - Khopoli road">
+<img src ="/assets/images/missing-link-ride/deep-gorge-few-kilometers-from -khandala-talao.jpeg" style="width: 100%;border:solid 1px #ccc; border-radius:2px;" title="Deep gorge just a few kms ahead of Khandala Talao on Khandala - Khopoli road">
 
 I clicked a few photos there and headed towards Khandala Ghat. I then stopped on the ghat at the very first sighting of the Missing Link. And that is when I realised this was the same spot where I have photos from my college days. It felt as if it was not that long ago, although it must have been at least 18 years.
 
