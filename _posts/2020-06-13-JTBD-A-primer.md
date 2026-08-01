@@ -19,7 +19,7 @@ On similar lines, JTBD states that customers don’t buy your product or service
 With the rise of data and the need to make sense out of it, a lot of emphasis is given on forming correlations with the hope of improving products for good. We know, for a fact that ‘Correlation does not imply causation’. Yet,  many times, we product managers  feel comfortable if our decisions are backed by data correlations. In his article emphasising on the importance of “knowing your customer’s jobs to be done”, Clayton Christensen, one of the fellow-architects of JTBD theory, states - 
 
 <div style="font-style: italic;padding-left: 20px;border-left: solid 4px #008000b5;border-radius: 2px;margin-left: 15px;">
-After decades of watching great companies fail, we’ve come to the conclusion that the focus on correlation—and on knowing more and more about customers—is taking firms in the wrong direction. What they really need to home in on is the progress that the customer is trying to make in a given circumstance—what the customer hopes to accomplish. This is what we’ve come to call the job to be done
+After decades of watching great companies fail, we’ve come to the conclusion that the focus on correlation-and on knowing more and more about customers-is taking firms in the wrong direction. What they really need to home in on is the progress that the customer is trying to make in a given circumstance-what the customer hopes to accomplish. This is what we’ve come to call the job to be done
 </div>
 
 Clay also substantiates this theory with an example in this interesting video - 
