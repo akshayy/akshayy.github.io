@@ -68,8 +68,8 @@ This was a great ride, but it was more about museums, art and culture than sceni
 
 If you love art, history and culture, Zapurza is definitely worth a visit. 
 
-Riding Circuit : https://maps.app.goo.gl/VK8yCEr5c73zvATbA
+Riding Circuit : [https://maps.app.goo.gl/VK8yCEr5c73zvATbA](https://maps.app.goo.gl/VK8yCEr5c73zvATbA)
 
-Zapurza : https://zapurza.org/
+Zapurza : [https://zapurza.org](https://zapurza.org/)
 
 *Parts of this post are refined using AI - especially the section describing the workings of Oleography and the section about the art gallery dedicated to the revered saint, Balu Mama.*
