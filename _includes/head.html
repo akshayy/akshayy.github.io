@@ -27,14 +27,47 @@
     <meta itemprop="image" content="{{site.url}}{{site.baseurl}}{{ page.image }}" />
     <meta property="og:image" content="{{site.url}}{{site.baseurl}}{{ page.image }}"/>
     {% endif %}
-    {% if page.twitterimage %}	 
+    {% if page.twitterimage %}
     <meta itemprop="image" content="{{site.url}}{{site.baseurl}}{{ page.image }}" />
     <meta name="twitter:image" content="{{site.url}}{{site.baseurl}}{{ page.twitterimage }}"/>
     <meta name="twitter:card" content="summary_large_image">
     {% endif %}
+    {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}">
+    {% endif %}
     <meta content="{{site.owner}}" name="author"></meta>
     <meta content="Copyright 2020 {{site.owner}}. All rights reserved." name="copyright"></meta>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if page.layout == "post" %}
+    <link rel="canonical" href="{{site.url}}{{site.baseurl}}{{ page.url }}">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": {{ page.title | jsonify }},
+      "description": {{ page.description | default: site.description | jsonify }},
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      {% if page.image %}
+      "image": "{{site.url}}{{site.baseurl}}{{ page.image }}",
+      {% endif %}
+      {% if page.keywords %}
+      "keywords": {{ page.keywords | jsonify }},
+      {% endif %}
+      "author": {
+        "@type": "Person",
+        "name": "{{ site.owner }}"
+      },
+      "publisher": {
+        "@type": "Person",
+        "name": "{{ site.owner }}"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{site.url}}{{site.baseurl}}{{ page.url }}"
+      }
+    }
+    </script>
+    {% endif %}
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-37799723-1"></script>
     <script>
